@@ -1,0 +1,37 @@
+----------------
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226127873664] [ENC:UTF-8] 配置测试：含时间戳与线程ID (Error Code: 100)
+----------------
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695295751808] [ENC:UTF-8] 配置测试：含时间戳与线程ID (Error Code: 100)
+----------------
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823922210432] [ENC:UTF-8] 配置测试：含时间戳与线程ID (Error Code: 100)
+----------------
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737353475712] [ENC:UTF-8] 配置测试：含时间戳与线程ID (Error Code: 100)
+----------------
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282451220096] [ENC:UTF-8] 配置测试：含时间戳与线程ID (Error Code: 100)
+----------------
+[2025-12-01 16:31:53] [Linux] [INFO] [TID:140529923581568] [ENC:UTF-8] 配置测试：含时间戳与线程ID (Error Code: 100)
+----------------
+[2025-12-01 16:50:47.291] [Linux] [INFO ] [TID:139644453369472] (testLogger.cpp:23 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+----------------
+[2025-12-01 17:02:21.389] [Linux] [INFO  ] [TID:3893965599574018424] (testLogger.cpp:23 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+----------------
+[2025-12-01 17:39:54.474] [Linux] [INFO  ] [TID:3015837626190003670] (testLogger.cpp:24 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+----------------
+[2025-12-01 17:41:24.409] [Linux] [INFO  ] [TID:3114191024474463784] (testLogger.cpp:24 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+----------------
+[2025-12-01 17:42:00.779] [Linux] [INFO  ] [TID:8838099938186095102] (testLogger.cpp:24 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 17:42:00.779] [Linux] [WARN  ] [TID:8838099938186095102] (testLogger.cpp:25 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 17:42:00.779] [Linux] [DEBUG ] [TID:8838099938186095102] (testLogger.cpp:26 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 17:42:00.779] [Linux] [ERROR ] [TID:8838099938186095102] (testLogger.cpp:27 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+----------------
+[2025-12-01 17:44:20.902] [Linux] [INFO  ] [TID:10161040484469721379] (testLogger.cpp:25 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 17:44:20.902] [Linux] [WARN  ] [TID:10161040484469721379] (testLogger.cpp:26 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 17:44:20.902] [Linux] [DEBUG ] [TID:10161040484469721379] (testLogger.cpp:27 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 17:44:20.902] [Linux] [ERROR ] [TID:10161040484469721379] (testLogger.cpp:28 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 17:44:20.902] [Linux] [DEBUG ] [TID:10161040484469721379] (testLogger.cpp:29 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 300)
+----------------
+[2025-12-01 18:07:48.797] [Linux] [INFO  ] [TID:17819850441674406249] (testLogger.cpp:25 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 18:07:48.797] [Linux] [WARN  ] [TID:17819850441674406249] (testLogger.cpp:26 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 18:07:48.797] [Linux] [DEBUG ] [TID:17819850441674406249] (testLogger.cpp:27 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 18:07:48.797] [Linux] [ERROR ] [TID:17819850441674406249] (testLogger.cpp:28 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 18:07:48.797] [Linux] [DEBUG ] [TID:17819850441674406249] (testLogger.cpp:29 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 300)

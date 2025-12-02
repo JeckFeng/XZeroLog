@@ -1,0 +1,3 @@
+----------------
+[2025-12-01 18:07:49.301] [Linux] [INFO  ] [TID:17819850441674406249] (testLogger.cpp:91 run_all_tests) - 滚动测试：第198条，触发文件大小滚动与备份 (Error Code: 0)
+[2025-12-01 18:07:49.301] [Linux] [INFO  ] [TID:17819850441674406249] (testLogger.cpp:91 run_all_tests) - 滚动测试：第199条，触发文件大小滚动与备份 (Error Code: 0)

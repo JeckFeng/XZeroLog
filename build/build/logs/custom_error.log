@@ -1,0 +1,36 @@
+----------------
+[2025-12-01 15:47:00] [Linux] [ERROR] [ENC:UTF-8] 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 15:47:00] [Linux] [ERROR] [ENC:UTF-8] 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 15:47:49] [Linux] [ERROR] [ENC:UTF-8] 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 15:47:49] [Linux] [ERROR] [ENC:UTF-8] 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 16:15:45] [Linux] [ERROR] [ENC:UTF-8] 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 16:15:45] [Linux] [ERROR] [ENC:UTF-8] 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 16:16:05] [Linux] [ERROR] [ENC:UTF-8] 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 16:16:05] [Linux] [ERROR] [ENC:UTF-8] 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 16:31:55] [Linux] [ERROR] [ENC:UTF-8] 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 16:31:55] [Linux] [ERROR] [ENC:UTF-8] 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 16:50:48.596] [Linux] [ERROR] [TID:139644453369472] (testLogger.cpp:140 run_all_tests) - 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 16:50:48.596] [Linux] [ERROR] [TID:139644453369472] (testLogger.cpp:142 run_all_tests) - 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 17:02:22.694] [Linux] [ERROR ] [TID:3893965599574018424] (testLogger.cpp:154 run_all_tests) - 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 17:02:22.694] [Linux] [ERROR ] [TID:3893965599574018424] (testLogger.cpp:156 run_all_tests) - 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 17:39:55.780] [Linux] [ERROR ] [TID:3015837626190003670] (testLogger.cpp:172 run_all_tests) - 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 17:39:55.780] [Linux] [ERROR ] [TID:3015837626190003670] (testLogger.cpp:174 run_all_tests) - 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 17:41:25.715] [Linux] [ERROR ] [TID:3114191024474463784] (testLogger.cpp:172 run_all_tests) - 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 17:41:25.715] [Linux] [ERROR ] [TID:3114191024474463784] (testLogger.cpp:174 run_all_tests) - 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 17:42:02.086] [Linux] [ERROR ] [TID:8838099938186095102] (testLogger.cpp:175 run_all_tests) - 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 17:42:02.086] [Linux] [ERROR ] [TID:8838099938186095102] (testLogger.cpp:177 run_all_tests) - 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 17:44:22.207] [Linux] [ERROR ] [TID:10161040484469721379] (testLogger.cpp:177 run_all_tests) - 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 17:44:22.207] [Linux] [ERROR ] [TID:10161040484469721379] (testLogger.cpp:179 run_all_tests) - 自定义错误码测试：磁盘空间不足 (Error Code: 2001)
+----------------
+[2025-12-01 18:07:50.103] [Linux] [ERROR ] [TID:17819850441674406249] (testLogger.cpp:177 run_all_tests) - 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 18:07:50.103] [Linux] [ERROR ] [TID:17819850441674406249] (testLogger.cpp:179 run_all_tests) - 自定义错误码测试：磁盘空间不足 (Error Code: 2001)

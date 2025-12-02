@@ -1,0 +1,273 @@
+----------------
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226112513728] [ENC:UTF-8] 线程并发测试：线程0 第0条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226095728320] [ENC:UTF-8] 线程并发测试：线程2 第0条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226112513728] [ENC:UTF-8] 线程并发测试：线程0 第1条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226095728320] [ENC:UTF-8] 线程并发测试：线程2 第1条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226112513728] [ENC:UTF-8] 线程并发测试：线程0 第2条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226095728320] [ENC:UTF-8] 线程并发测试：线程2 第2条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226112513728] [ENC:UTF-8] 线程并发测试：线程0 第3条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226095728320] [ENC:UTF-8] 线程并发测试：线程2 第3条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226112513728] [ENC:UTF-8] 线程并发测试：线程0 第4条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226095728320] [ENC:UTF-8] 线程并发测试：线程2 第4条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226087335616] [ENC:UTF-8] 线程并发测试：线程3 第0条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226087335616] [ENC:UTF-8] 线程并发测试：线程3 第1条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226104121024] [ENC:UTF-8] 线程并发测试：线程1 第0条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226104121024] [ENC:UTF-8] 线程并发测试：线程1 第1条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226104121024] [ENC:UTF-8] 线程并发测试：线程1 第2条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226087335616] [ENC:UTF-8] 线程并发测试：线程3 第2条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226087335616] [ENC:UTF-8] 线程并发测试：线程3 第3条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226104121024] [ENC:UTF-8] 线程并发测试：线程1 第3条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226087335616] [ENC:UTF-8] 线程并发测试：线程3 第4条
+[2025-12-01 15:30:22] [Linux] [INFO] [TID:140226104121024] [ENC:UTF-8] 线程并发测试：线程1 第4条
+----------------
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695056676544] [ENC:UTF-8] 线程并发测试：线程2 第0条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695056676544] [ENC:UTF-8] 线程并发测试：线程2 第1条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695056676544] [ENC:UTF-8] 线程并发测试：线程2 第2条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695056676544] [ENC:UTF-8] 线程并发测试：线程2 第3条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695056676544] [ENC:UTF-8] 线程并发测试：线程2 第4条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695201375936] [ENC:UTF-8] 线程并发测试：线程1 第0条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695201375936] [ENC:UTF-8] 线程并发测试：线程1 第1条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695209768640] [ENC:UTF-8] 线程并发测试：线程0 第0条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695209768640] [ENC:UTF-8] 线程并发测试：线程0 第1条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695201375936] [ENC:UTF-8] 线程并发测试：线程1 第2条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695209768640] [ENC:UTF-8] 线程并发测试：线程0 第2条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695201375936] [ENC:UTF-8] 线程并发测试：线程1 第3条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695201375936] [ENC:UTF-8] 线程并发测试：线程1 第4条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695209768640] [ENC:UTF-8] 线程并发测试：线程0 第3条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695209768640] [ENC:UTF-8] 线程并发测试：线程0 第4条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695075550912] [ENC:UTF-8] 线程并发测试：线程3 第0条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695075550912] [ENC:UTF-8] 线程并发测试：线程3 第1条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695075550912] [ENC:UTF-8] 线程并发测试：线程3 第2条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695075550912] [ENC:UTF-8] 线程并发测试：线程3 第3条
+[2025-12-01 15:46:59] [Linux] [INFO] [TID:140695075550912] [ENC:UTF-8] 线程并发测试：线程3 第4条
+----------------
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823906023104] [ENC:UTF-8] 线程并发测试：线程0 第0条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823906023104] [ENC:UTF-8] 线程并发测试：线程0 第1条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823906023104] [ENC:UTF-8] 线程并发测试：线程0 第2条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823906023104] [ENC:UTF-8] 线程并发测试：线程0 第3条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823906023104] [ENC:UTF-8] 线程并发测试：线程0 第4条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823889237696] [ENC:UTF-8] 线程并发测试：线程2 第0条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823897630400] [ENC:UTF-8] 线程并发测试：线程1 第0条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823889237696] [ENC:UTF-8] 线程并发测试：线程2 第1条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823889237696] [ENC:UTF-8] 线程并发测试：线程2 第2条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823897630400] [ENC:UTF-8] 线程并发测试：线程1 第1条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823897630400] [ENC:UTF-8] 线程并发测试：线程1 第2条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823889237696] [ENC:UTF-8] 线程并发测试：线程2 第3条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823897630400] [ENC:UTF-8] 线程并发测试：线程1 第3条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823889237696] [ENC:UTF-8] 线程并发测试：线程2 第4条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823897630400] [ENC:UTF-8] 线程并发测试：线程1 第4条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823880844992] [ENC:UTF-8] 线程并发测试：线程3 第0条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823880844992] [ENC:UTF-8] 线程并发测试：线程3 第1条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823880844992] [ENC:UTF-8] 线程并发测试：线程3 第2条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823880844992] [ENC:UTF-8] 线程并发测试：线程3 第3条
+[2025-12-01 15:47:48] [Linux] [INFO] [TID:139823880844992] [ENC:UTF-8] 线程并发测试：线程3 第4条
+----------------
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737337353920] [ENC:UTF-8] 线程并发测试：线程0 第0条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737337353920] [ENC:UTF-8] 线程并发测试：线程0 第1条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737337353920] [ENC:UTF-8] 线程并发测试：线程0 第2条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737337353920] [ENC:UTF-8] 线程并发测试：线程0 第3条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737337353920] [ENC:UTF-8] 线程并发测试：线程0 第4条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737328961216] [ENC:UTF-8] 线程并发测试：线程1 第0条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737328961216] [ENC:UTF-8] 线程并发测试：线程1 第1条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737328961216] [ENC:UTF-8] 线程并发测试：线程1 第2条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737328961216] [ENC:UTF-8] 线程并发测试：线程1 第3条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737328961216] [ENC:UTF-8] 线程并发测试：线程1 第4条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737320568512] [ENC:UTF-8] 线程并发测试：线程2 第0条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737320568512] [ENC:UTF-8] 线程并发测试：线程2 第1条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737320568512] [ENC:UTF-8] 线程并发测试：线程2 第2条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737320568512] [ENC:UTF-8] 线程并发测试：线程2 第3条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737320568512] [ENC:UTF-8] 线程并发测试：线程2 第4条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737312175808] [ENC:UTF-8] 线程并发测试：线程3 第0条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737312175808] [ENC:UTF-8] 线程并发测试：线程3 第1条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737312175808] [ENC:UTF-8] 线程并发测试：线程3 第2条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737312175808] [ENC:UTF-8] 线程并发测试：线程3 第3条
+[2025-12-01 16:15:44] [Linux] [INFO] [TID:140737312175808] [ENC:UTF-8] 线程并发测试：线程3 第4条
+----------------
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282435724992] [ENC:UTF-8] 线程并发测试：线程0 第0条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282435724992] [ENC:UTF-8] 线程并发测试：线程0 第1条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282435724992] [ENC:UTF-8] 线程并发测试：线程0 第2条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282435724992] [ENC:UTF-8] 线程并发测试：线程0 第3条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282435724992] [ENC:UTF-8] 线程并发测试：线程0 第4条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282356037312] [ENC:UTF-8] 线程并发测试：线程1 第0条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282356037312] [ENC:UTF-8] 线程并发测试：线程1 第1条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282356037312] [ENC:UTF-8] 线程并发测试：线程1 第2条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282356037312] [ENC:UTF-8] 线程并发测试：线程1 第3条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282356037312] [ENC:UTF-8] 线程并发测试：线程1 第4条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282339251904] [ENC:UTF-8] 线程并发测试：线程3 第0条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282347644608] [ENC:UTF-8] 线程并发测试：线程2 第0条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282339251904] [ENC:UTF-8] 线程并发测试：线程3 第1条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282339251904] [ENC:UTF-8] 线程并发测试：线程3 第2条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282339251904] [ENC:UTF-8] 线程并发测试：线程3 第3条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282347644608] [ENC:UTF-8] 线程并发测试：线程2 第1条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282339251904] [ENC:UTF-8] 线程并发测试：线程3 第4条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282347644608] [ENC:UTF-8] 线程并发测试：线程2 第2条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282347644608] [ENC:UTF-8] 线程并发测试：线程2 第3条
+[2025-12-01 16:16:04] [Linux] [INFO] [TID:140282347644608] [ENC:UTF-8] 线程并发测试：线程2 第4条
+----------------
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529908049600] [ENC:UTF-8] 线程并发测试：线程0 第0条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529899656896] [ENC:UTF-8] 线程并发测试：线程1 第0条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529908049600] [ENC:UTF-8] 线程并发测试：线程0 第1条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529899656896] [ENC:UTF-8] 线程并发测试：线程1 第1条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529908049600] [ENC:UTF-8] 线程并发测试：线程0 第2条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529899656896] [ENC:UTF-8] 线程并发测试：线程1 第2条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529891264192] [ENC:UTF-8] 线程并发测试：线程2 第0条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529908049600] [ENC:UTF-8] 线程并发测试：线程0 第3条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529899656896] [ENC:UTF-8] 线程并发测试：线程1 第3条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529891264192] [ENC:UTF-8] 线程并发测试：线程2 第1条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529899656896] [ENC:UTF-8] 线程并发测试：线程1 第4条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529891264192] [ENC:UTF-8] 线程并发测试：线程2 第2条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529908049600] [ENC:UTF-8] 线程并发测试：线程0 第4条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529891264192] [ENC:UTF-8] 线程并发测试：线程2 第3条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529882871488] [ENC:UTF-8] 线程并发测试：线程3 第0条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529891264192] [ENC:UTF-8] 线程并发测试：线程2 第4条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529882871488] [ENC:UTF-8] 线程并发测试：线程3 第1条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529882871488] [ENC:UTF-8] 线程并发测试：线程3 第2条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529882871488] [ENC:UTF-8] 线程并发测试：线程3 第3条
+[2025-12-01 16:31:54] [Linux] [INFO] [TID:140529882871488] [ENC:UTF-8] 线程并发测试：线程3 第4条
+----------------
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644429653696] (testLogger.cpp:56 operator()) - 线程并发测试：线程1 第0条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644429653696] (testLogger.cpp:56 operator()) - 线程并发测试：线程1 第1条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644429653696] (testLogger.cpp:56 operator()) - 线程并发测试：线程1 第2条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644438046400] (testLogger.cpp:56 operator()) - 线程并发测试：线程0 第0条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644429653696] (testLogger.cpp:56 operator()) - 线程并发测试：线程1 第3条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644429653696] (testLogger.cpp:56 operator()) - 线程并发测试：线程1 第4条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644438046400] (testLogger.cpp:56 operator()) - 线程并发测试：线程0 第1条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644438046400] (testLogger.cpp:56 operator()) - 线程并发测试：线程0 第2条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644217849536] (testLogger.cpp:56 operator()) - 线程并发测试：线程2 第0条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644438046400] (testLogger.cpp:56 operator()) - 线程并发测试：线程0 第3条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644438046400] (testLogger.cpp:56 operator()) - 线程并发测试：线程0 第4条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644217849536] (testLogger.cpp:56 operator()) - 线程并发测试：线程2 第1条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644209456832] (testLogger.cpp:56 operator()) - 线程并发测试：线程3 第0条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644217849536] (testLogger.cpp:56 operator()) - 线程并发测试：线程2 第2条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644217849536] (testLogger.cpp:56 operator()) - 线程并发测试：线程2 第3条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644209456832] (testLogger.cpp:56 operator()) - 线程并发测试：线程3 第1条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644209456832] (testLogger.cpp:56 operator()) - 线程并发测试：线程3 第2条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644217849536] (testLogger.cpp:56 operator()) - 线程并发测试：线程2 第4条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644209456832] (testLogger.cpp:56 operator()) - 线程并发测试：线程3 第3条 (Error Code: 0)
+[2025-12-01 16:50:47.592] [Linux] [INFO ] [TID:139644209456832] (testLogger.cpp:56 operator()) - 线程并发测试：线程3 第4条 (Error Code: 0)
+----------------
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:10542350907981129393] (testLogger.cpp:56 operator()) - 线程并发测试：线程0 第0条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:16354389959557995806] (testLogger.cpp:56 operator()) - 线程并发测试：线程1 第0条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:10542350907981129393] (testLogger.cpp:56 operator()) - 线程并发测试：线程0 第1条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:16354389959557995806] (testLogger.cpp:56 operator()) - 线程并发测试：线程1 第1条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:8646422770101965793] (testLogger.cpp:56 operator()) - 线程并发测试：线程3 第0条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:10542350907981129393] (testLogger.cpp:56 operator()) - 线程并发测试：线程0 第2条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:8646422770101965793] (testLogger.cpp:56 operator()) - 线程并发测试：线程3 第1条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:16354389959557995806] (testLogger.cpp:56 operator()) - 线程并发测试：线程1 第2条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:1784123366351432227] (testLogger.cpp:56 operator()) - 线程并发测试：线程2 第0条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:10542350907981129393] (testLogger.cpp:56 operator()) - 线程并发测试：线程0 第3条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:8646422770101965793] (testLogger.cpp:56 operator()) - 线程并发测试：线程3 第2条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:16354389959557995806] (testLogger.cpp:56 operator()) - 线程并发测试：线程1 第3条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:10542350907981129393] (testLogger.cpp:56 operator()) - 线程并发测试：线程0 第4条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:1784123366351432227] (testLogger.cpp:56 operator()) - 线程并发测试：线程2 第1条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:8646422770101965793] (testLogger.cpp:56 operator()) - 线程并发测试：线程3 第3条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:16354389959557995806] (testLogger.cpp:56 operator()) - 线程并发测试：线程1 第4条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:1784123366351432227] (testLogger.cpp:56 operator()) - 线程并发测试：线程2 第2条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:8646422770101965793] (testLogger.cpp:56 operator()) - 线程并发测试：线程3 第4条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:1784123366351432227] (testLogger.cpp:56 operator()) - 线程并发测试：线程2 第3条 (Error Code: 0)
+[2025-12-01 17:02:21.689] [Linux] [INFO  ] [TID:1784123366351432227] (testLogger.cpp:56 operator()) - 线程并发测试：线程2 第4条 (Error Code: 0)
+----------------
+[2025-12-01 17:39:54.775] [Linux] [INFO  ] [TID:15650911100082896683] (testLogger.cpp:57 operator()) - 线程并发测试：线程0 第0条 (Error Code: 0)
+[2025-12-01 17:39:54.775] [Linux] [INFO  ] [TID:15650911100082896683] (testLogger.cpp:57 operator()) - 线程并发测试：线程0 第1条 (Error Code: 0)
+[2025-12-01 17:39:54.775] [Linux] [INFO  ] [TID:15650911100082896683] (testLogger.cpp:57 operator()) - 线程并发测试：线程0 第2条 (Error Code: 0)
+[2025-12-01 17:39:54.775] [Linux] [INFO  ] [TID:15650911100082896683] (testLogger.cpp:57 operator()) - 线程并发测试：线程0 第3条 (Error Code: 0)
+[2025-12-01 17:39:54.775] [Linux] [INFO  ] [TID:15650911100082896683] (testLogger.cpp:57 operator()) - 线程并发测试：线程0 第4条 (Error Code: 0)
+[2025-12-01 17:39:54.775] [Linux] [INFO  ] [TID:8141747196896209882] (testLogger.cpp:57 operator()) - 线程并发测试：线程2 第0条 (Error Code: 0)
+[2025-12-01 17:39:54.775] [Linux] [INFO  ] [TID:17954823105576609744] (testLogger.cpp:57 operator()) - 线程并发测试：线程1 第0条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:8141747196896209882] (testLogger.cpp:57 operator()) - 线程并发测试：线程2 第1条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:17954823105576609744] (testLogger.cpp:57 operator()) - 线程并发测试：线程1 第1条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:13726384221541991856] (testLogger.cpp:57 operator()) - 线程并发测试：线程3 第0条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:8141747196896209882] (testLogger.cpp:57 operator()) - 线程并发测试：线程2 第2条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:13726384221541991856] (testLogger.cpp:57 operator()) - 线程并发测试：线程3 第1条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:8141747196896209882] (testLogger.cpp:57 operator()) - 线程并发测试：线程2 第3条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:17954823105576609744] (testLogger.cpp:57 operator()) - 线程并发测试：线程1 第2条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:13726384221541991856] (testLogger.cpp:57 operator()) - 线程并发测试：线程3 第2条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:8141747196896209882] (testLogger.cpp:57 operator()) - 线程并发测试：线程2 第4条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:17954823105576609744] (testLogger.cpp:57 operator()) - 线程并发测试：线程1 第3条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:13726384221541991856] (testLogger.cpp:57 operator()) - 线程并发测试：线程3 第3条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:17954823105576609744] (testLogger.cpp:57 operator()) - 线程并发测试：线程1 第4条 (Error Code: 0)
+[2025-12-01 17:39:54.776] [Linux] [INFO  ] [TID:13726384221541991856] (testLogger.cpp:57 operator()) - 线程并发测试：线程3 第4条 (Error Code: 0)
+----------------
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:818084569300034298] (testLogger.cpp:57 operator()) - 线程并发测试：线程1 第0条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:818084569300034298] (testLogger.cpp:57 operator()) - 线程并发测试：线程1 第1条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:818084569300034298] (testLogger.cpp:57 operator()) - 线程并发测试：线程1 第2条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:818084569300034298] (testLogger.cpp:57 operator()) - 线程并发测试：线程1 第3条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:818084569300034298] (testLogger.cpp:57 operator()) - 线程并发测试：线程1 第4条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:8896681535395658437] (testLogger.cpp:57 operator()) - 线程并发测试：线程0 第0条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:8869753299337514608] (testLogger.cpp:57 operator()) - 线程并发测试：线程3 第0条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:8896681535395658437] (testLogger.cpp:57 operator()) - 线程并发测试：线程0 第1条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:8869753299337514608] (testLogger.cpp:57 operator()) - 线程并发测试：线程3 第1条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:7466878760219726082] (testLogger.cpp:57 operator()) - 线程并发测试：线程2 第0条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:8869753299337514608] (testLogger.cpp:57 operator()) - 线程并发测试：线程3 第2条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:7466878760219726082] (testLogger.cpp:57 operator()) - 线程并发测试：线程2 第1条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:8896681535395658437] (testLogger.cpp:57 operator()) - 线程并发测试：线程0 第2条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:8869753299337514608] (testLogger.cpp:57 operator()) - 线程并发测试：线程3 第3条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:7466878760219726082] (testLogger.cpp:57 operator()) - 线程并发测试：线程2 第2条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:8869753299337514608] (testLogger.cpp:57 operator()) - 线程并发测试：线程3 第4条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:7466878760219726082] (testLogger.cpp:57 operator()) - 线程并发测试：线程2 第3条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:8896681535395658437] (testLogger.cpp:57 operator()) - 线程并发测试：线程0 第3条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:7466878760219726082] (testLogger.cpp:57 operator()) - 线程并发测试：线程2 第4条 (Error Code: 0)
+[2025-12-01 17:41:24.710] [Linux] [INFO  ] [TID:8896681535395658437] (testLogger.cpp:57 operator()) - 线程并发测试：线程0 第4条 (Error Code: 0)
+----------------
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:8969010337471075254] (testLogger.cpp:60 operator()) - 线程并发测试：线程1 第0条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:2154555711618223504] (testLogger.cpp:60 operator()) - 线程并发测试：线程0 第0条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:8969010337471075254] (testLogger.cpp:60 operator()) - 线程并发测试：线程1 第1条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:8969010337471075254] (testLogger.cpp:60 operator()) - 线程并发测试：线程1 第2条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:2154555711618223504] (testLogger.cpp:60 operator()) - 线程并发测试：线程0 第1条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:10477417477534871322] (testLogger.cpp:60 operator()) - 线程并发测试：线程2 第0条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:8969010337471075254] (testLogger.cpp:60 operator()) - 线程并发测试：线程1 第3条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:16572529041333398510] (testLogger.cpp:60 operator()) - 线程并发测试：线程3 第0条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:2154555711618223504] (testLogger.cpp:60 operator()) - 线程并发测试：线程0 第2条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:8969010337471075254] (testLogger.cpp:60 operator()) - 线程并发测试：线程1 第4条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:2154555711618223504] (testLogger.cpp:60 operator()) - 线程并发测试：线程0 第3条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:10477417477534871322] (testLogger.cpp:60 operator()) - 线程并发测试：线程2 第1条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:16572529041333398510] (testLogger.cpp:60 operator()) - 线程并发测试：线程3 第1条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:16572529041333398510] (testLogger.cpp:60 operator()) - 线程并发测试：线程3 第2条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:2154555711618223504] (testLogger.cpp:60 operator()) - 线程并发测试：线程0 第4条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:10477417477534871322] (testLogger.cpp:60 operator()) - 线程并发测试：线程2 第2条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:16572529041333398510] (testLogger.cpp:60 operator()) - 线程并发测试：线程3 第3条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:16572529041333398510] (testLogger.cpp:60 operator()) - 线程并发测试：线程3 第4条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:10477417477534871322] (testLogger.cpp:60 operator()) - 线程并发测试：线程2 第3条 (Error Code: 0)
+[2025-12-01 17:42:01.080] [Linux] [INFO  ] [TID:10477417477534871322] (testLogger.cpp:60 operator()) - 线程并发测试：线程2 第4条 (Error Code: 0)
+----------------
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:13516007231211044414] (testLogger.cpp:62 operator()) - 线程并发测试：线程0 第0条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:13516007231211044414] (testLogger.cpp:62 operator()) - 线程并发测试：线程0 第1条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:13516007231211044414] (testLogger.cpp:62 operator()) - 线程并发测试：线程0 第2条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:13516007231211044414] (testLogger.cpp:62 operator()) - 线程并发测试：线程0 第3条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:4418077710297683765] (testLogger.cpp:62 operator()) - 线程并发测试：线程1 第0条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:12345437277567718550] (testLogger.cpp:62 operator()) - 线程并发测试：线程2 第0条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:13516007231211044414] (testLogger.cpp:62 operator()) - 线程并发测试：线程0 第4条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:4418077710297683765] (testLogger.cpp:62 operator()) - 线程并发测试：线程1 第1条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:4418077710297683765] (testLogger.cpp:62 operator()) - 线程并发测试：线程1 第2条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:4418077710297683765] (testLogger.cpp:62 operator()) - 线程并发测试：线程1 第3条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:2450737219608243119] (testLogger.cpp:62 operator()) - 线程并发测试：线程3 第0条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:4418077710297683765] (testLogger.cpp:62 operator()) - 线程并发测试：线程1 第4条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:2450737219608243119] (testLogger.cpp:62 operator()) - 线程并发测试：线程3 第1条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:2450737219608243119] (testLogger.cpp:62 operator()) - 线程并发测试：线程3 第2条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:2450737219608243119] (testLogger.cpp:62 operator()) - 线程并发测试：线程3 第3条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:2450737219608243119] (testLogger.cpp:62 operator()) - 线程并发测试：线程3 第4条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:12345437277567718550] (testLogger.cpp:62 operator()) - 线程并发测试：线程2 第1条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:12345437277567718550] (testLogger.cpp:62 operator()) - 线程并发测试：线程2 第2条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:12345437277567718550] (testLogger.cpp:62 operator()) - 线程并发测试：线程2 第3条 (Error Code: 0)
+[2025-12-01 17:44:21.203] [Linux] [INFO  ] [TID:12345437277567718550] (testLogger.cpp:62 operator()) - 线程并发测试：线程2 第4条 (Error Code: 0)
+----------------
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:9134094803583770659] (testLogger.cpp:62 operator()) - 线程并发测试：线程0 第0条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:9134094803583770659] (testLogger.cpp:62 operator()) - 线程并发测试：线程0 第1条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:5447726417128538329] (testLogger.cpp:62 operator()) - 线程并发测试：线程1 第0条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:9134094803583770659] (testLogger.cpp:62 operator()) - 线程并发测试：线程0 第2条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:8330315795999380446] (testLogger.cpp:62 operator()) - 线程并发测试：线程2 第0条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:9134094803583770659] (testLogger.cpp:62 operator()) - 线程并发测试：线程0 第3条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:5447726417128538329] (testLogger.cpp:62 operator()) - 线程并发测试：线程1 第1条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:9134094803583770659] (testLogger.cpp:62 operator()) - 线程并发测试：线程0 第4条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:5447726417128538329] (testLogger.cpp:62 operator()) - 线程并发测试：线程1 第2条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:8330315795999380446] (testLogger.cpp:62 operator()) - 线程并发测试：线程2 第1条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:5447726417128538329] (testLogger.cpp:62 operator()) - 线程并发测试：线程1 第3条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:5447726417128538329] (testLogger.cpp:62 operator()) - 线程并发测试：线程1 第4条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:8330315795999380446] (testLogger.cpp:62 operator()) - 线程并发测试：线程2 第2条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:10158979442301197556] (testLogger.cpp:62 operator()) - 线程并发测试：线程3 第0条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:8330315795999380446] (testLogger.cpp:62 operator()) - 线程并发测试：线程2 第3条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:10158979442301197556] (testLogger.cpp:62 operator()) - 线程并发测试：线程3 第1条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:8330315795999380446] (testLogger.cpp:62 operator()) - 线程并发测试：线程2 第4条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:10158979442301197556] (testLogger.cpp:62 operator()) - 线程并发测试：线程3 第2条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:10158979442301197556] (testLogger.cpp:62 operator()) - 线程并发测试：线程3 第3条 (Error Code: 0)
+[2025-12-01 18:07:49.098] [Linux] [INFO  ] [TID:10158979442301197556] (testLogger.cpp:62 operator()) - 线程并发测试：线程3 第4条 (Error Code: 0)

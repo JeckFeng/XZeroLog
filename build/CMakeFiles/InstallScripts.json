@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystem/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

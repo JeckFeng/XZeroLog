@@ -1,0 +1,18 @@
+----------------
+{"timestamp":"2025-12-01T09:02:22.693Z","OS":"Linux","level":"INFO","thread":"TID:3893965599574018424","logger":"testLogger.cpp:134 run_all_tests","message":"Json 格式测试：用户未找到","error_code":404}
+{"timestamp":"2025-12-01T09:02:22.693Z","OS":"Linux","level":"ERROR","thread":"TID:3893965599574018424","logger":"testLogger.cpp:135 run_all_tests","message":"Json 格式测试：磁盘空间不足","error_code":2001}
+----------------
+{"timestamp":"2025-12-01T09:39:55.779Z","OS":"Linux","level":"INFO","thread":"TID:3015837626190003670","logger":"testLogger.cpp:135 run_all_tests","message":"Json 格式测试：用户未找到","error_code":404}
+{"timestamp":"2025-12-01T09:39:55.779Z","OS":"Linux","level":"ERROR","thread":"TID:3015837626190003670","logger":"testLogger.cpp:136 run_all_tests","message":"Json 格式测试：磁盘空间不足","error_code":2001}
+----------------
+{"timestamp":"2025-12-01T09:41:25.715Z","OS":"Linux","level":"INFO","thread":"TID:3114191024474463784","logger":"testLogger.cpp:135 run_all_tests","message":"Json 格式测试：用户未找到","error_code":404}
+{"timestamp":"2025-12-01T09:41:25.715Z","OS":"Linux","level":"ERROR","thread":"TID:3114191024474463784","logger":"testLogger.cpp:136 run_all_tests","message":"Json 格式测试：磁盘空间不足","error_code":2001}
+----------------
+{"timestamp":"2025-12-01T09:42:02.085Z","OS":"Linux","level":"INFO","thread":"TID:8838099938186095102","logger":"testLogger.cpp:138 run_all_tests","message":"Json 格式测试：用户未找到","error_code":404}
+{"timestamp":"2025-12-01T09:42:02.085Z","OS":"Linux","level":"ERROR","thread":"TID:8838099938186095102","logger":"testLogger.cpp:139 run_all_tests","message":"Json 格式测试：磁盘空间不足","error_code":2001}
+----------------
+{"timestamp":"2025-12-01T09:44:22.207Z","OS":"Linux","level":"INFO","thread":"TID:10161040484469721379","logger":"testLogger.cpp:140 run_all_tests","message":"Json 格式测试：用户未找到","error_code":404}
+{"timestamp":"2025-12-01T09:44:22.207Z","OS":"Linux","level":"ERROR","thread":"TID:10161040484469721379","logger":"testLogger.cpp:141 run_all_tests","message":"Json 格式测试：磁盘空间不足","error_code":2001}
+----------------
+{"timestamp":"2025-12-01T10:07:50.102Z","OS":"Linux","level":"INFO","thread":"TID:17819850441674406249","logger":"testLogger.cpp:140 run_all_tests","message":"Json 格式测试：用户未找到","error_code":404}
+{"timestamp":"2025-12-01T10:07:50.102Z","OS":"Linux","level":"ERROR","thread":"TID:17819850441674406249","logger":"testLogger.cpp:141 run_all_tests","message":"Json 格式测试：磁盘空间不足","error_code":2001}

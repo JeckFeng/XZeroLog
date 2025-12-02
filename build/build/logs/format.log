@@ -1,0 +1,39 @@
+----------------
+[2025-12-01 15:30:23] [Linux] [INFO] [TID:140226127873664] [ENC:UTF-8] 格式化测试：包含线程ID与时间戳
+[2025-12-01 15:30:23] [Linux] [INFO] [TID:140226127873664] [ENC:UTF-8] 格式化测试：中文UTF-8编码
+----------------
+[2025-12-01 15:47:00] [Linux] [INFO] [TID:140695295751808] [ENC:UTF-8] 格式化测试：包含线程ID与时间戳
+[2025-12-01 15:47:00] [Linux] [INFO] [TID:140695295751808] [ENC:UTF-8] 格式化测试：中文UTF-8编码
+----------------
+[2025-12-01 15:47:49] [Linux] [INFO] [TID:139823922210432] [ENC:UTF-8] 格式化测试：包含线程ID与时间戳
+[2025-12-01 15:47:49] [Linux] [INFO] [TID:139823922210432] [ENC:UTF-8] 格式化测试：中文UTF-8编码
+----------------
+[2025-12-01 16:15:45] [Linux] [INFO] [TID:140737353475712] [ENC:UTF-8] 格式化测试：包含线程ID与时间戳
+[2025-12-01 16:15:45] [Linux] [INFO] [TID:140737353475712] [ENC:UTF-8] 格式化测试：中文UTF-8编码
+----------------
+[2025-12-01 16:16:05] [Linux] [INFO] [TID:140282451220096] [ENC:UTF-8] 格式化测试：包含线程ID与时间戳
+[2025-12-01 16:16:05] [Linux] [INFO] [TID:140282451220096] [ENC:UTF-8] 格式化测试：中文UTF-8编码
+----------------
+[2025-12-01 16:31:55] [Linux] [INFO] [TID:140529923581568] [ENC:UTF-8] 格式化测试：包含线程ID与时间戳
+[2025-12-01 16:31:55] [Linux] [INFO] [TID:140529923581568] [ENC:UTF-8] 格式化测试：中文UTF-8编码
+----------------
+[2025-12-01 16:50:48.595] [Linux] [INFO ] [TID:139644453369472] (testLogger.cpp:120 run_all_tests) - 格式化测试：包含线程ID与时间戳 (Error Code: 0)
+[2025-12-01 16:50:48.595] [Linux] [INFO ] [TID:139644453369472] (testLogger.cpp:121 run_all_tests) - 格式化测试：中文UTF-8编码 (Error Code: 0)
+----------------
+[2025-12-01 17:02:22.692] [Linux] [INFO  ] [TID:3893965599574018424] (testLogger.cpp:120 run_all_tests) - 格式化测试：包含线程ID与时间戳 (Error Code: 0)
+[2025-12-01 17:02:22.693] [Linux] [INFO  ] [TID:3893965599574018424] (testLogger.cpp:121 run_all_tests) - 格式化测试：中文UTF-8编码 (Error Code: 0)
+----------------
+[2025-12-01 17:39:55.778] [Linux] [INFO  ] [TID:3015837626190003670] (testLogger.cpp:121 run_all_tests) - 格式化测试：包含线程ID与时间戳 (Error Code: 0)
+[2025-12-01 17:39:55.778] [Linux] [INFO  ] [TID:3015837626190003670] (testLogger.cpp:122 run_all_tests) - 格式化测试：中文UTF-8编码 (Error Code: 0)
+----------------
+[2025-12-01 17:41:25.714] [Linux] [INFO  ] [TID:3114191024474463784] (testLogger.cpp:121 run_all_tests) - 格式化测试：包含线程ID与时间戳 (Error Code: 0)
+[2025-12-01 17:41:25.715] [Linux] [INFO  ] [TID:3114191024474463784] (testLogger.cpp:122 run_all_tests) - 格式化测试：中文UTF-8编码 (Error Code: 0)
+----------------
+[2025-12-01 17:42:02.085] [Linux] [INFO  ] [TID:8838099938186095102] (testLogger.cpp:124 run_all_tests) - 格式化测试：包含线程ID与时间戳 (Error Code: 0)
+[2025-12-01 17:42:02.085] [Linux] [INFO  ] [TID:8838099938186095102] (testLogger.cpp:125 run_all_tests) - 格式化测试：中文UTF-8编码 (Error Code: 0)
+----------------
+[2025-12-01 17:44:22.206] [Linux] [INFO  ] [TID:10161040484469721379] (testLogger.cpp:126 run_all_tests) - 格式化测试：包含线程ID与时间戳 (Error Code: 0)
+[2025-12-01 17:44:22.206] [Linux] [INFO  ] [TID:10161040484469721379] (testLogger.cpp:127 run_all_tests) - 格式化测试：中文UTF-8编码 (Error Code: 0)
+----------------
+[2025-12-01 18:07:50.102] [Linux] [INFO  ] [TID:17819850441674406249] (testLogger.cpp:126 run_all_tests) - 格式化测试：包含线程ID与时间戳 (Error Code: 0)
+[2025-12-01 18:07:50.102] [Linux] [INFO  ] [TID:17819850441674406249] (testLogger.cpp:127 run_all_tests) - 格式化测试：中文UTF-8编码 (Error Code: 0)

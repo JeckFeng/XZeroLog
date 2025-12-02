@@ -1,0 +1,12 @@
+[WARN] This is a warning message (Error Code: 0)
+[2025-12-01 14:32:45] [INFO] This is an info message (Error Code: 0)
+[2025-12-01 14:32:45] [ERROR] This is an error message (Error Code: 404)
+[2025-12-01 14:32:45] [DEBUG] Debug detail (Error Code: 0)
+----------------
+[2025-12-01 14:48:16] [Linux] [INFO] [ENC:UTF-8] This is an info message (Error Code: 0)
+[2025-12-01 14:48:16] [Linux] [ERROR] [ENC:UTF-8] This is an error message (Error Code: 404)
+[2025-12-01 14:48:16] [Linux] [DEBUG] [ENC:UTF-8] Debug detail (Error Code: 0)
+----------------
+[2025-12-01 14:49:28] [Linux] [INFO] [ENC:UTF-8] This is an info message (Error Code: 0)
+[2025-12-01 14:49:28] [Linux] [ERROR] [ENC:UTF-8] 错误信息 (Error Code: 404)
+[2025-12-01 14:49:28] [Linux] [DEBUG] [ENC:UTF-8] Debug detail (Error Code: 0)
