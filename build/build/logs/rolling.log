@@ -1,0 +1,6 @@
+----------------
+[2025-12-01 22:49:28.329] [Linux] [INFO  ] [TID:12100944084493584452] (testLogger.cpp:91 run_all_tests) - 滚动测试：第195条，触发文件大小滚动与备份 (Error Code: 0)
+[2025-12-01 22:49:28.329] [Linux] [INFO  ] [TID:12100944084493584452] (testLogger.cpp:91 run_all_tests) - 滚动测试：第196条，触发文件大小滚动与备份 (Error Code: 0)
+[2025-12-01 22:49:28.329] [Linux] [INFO  ] [TID:12100944084493584452] (testLogger.cpp:91 run_all_tests) - 滚动测试：第197条，触发文件大小滚动与备份 (Error Code: 0)
+[2025-12-01 22:49:28.329] [Linux] [INFO  ] [TID:12100944084493584452] (testLogger.cpp:91 run_all_tests) - 滚动测试：第198条，触发文件大小滚动与备份 (Error Code: 0)
+[2025-12-01 22:49:28.329] [Linux] [INFO  ] [TID:12100944084493584452] (testLogger.cpp:91 run_all_tests) - 滚动测试：第199条，触发文件大小滚动与备份 (Error Code: 0)

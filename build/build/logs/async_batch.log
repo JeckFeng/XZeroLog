@@ -1,0 +1,11 @@
+----------------
+[2025-12-01 22:49:27.825] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:44 run_all_tests) - 异步批量日志，第0条 (Error Code: 0)
+[2025-12-01 22:49:27.825] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:44 run_all_tests) - 异步批量日志，第1条 (Error Code: 0)
+[2025-12-01 22:49:27.825] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:44 run_all_tests) - 异步批量日志，第2条 (Error Code: 0)
+[2025-12-01 22:49:27.826] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:44 run_all_tests) - 异步批量日志，第3条 (Error Code: 0)
+[2025-12-01 22:49:27.826] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:44 run_all_tests) - 异步批量日志，第4条 (Error Code: 0)
+[2025-12-01 22:49:27.826] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:44 run_all_tests) - 异步批量日志，第5条 (Error Code: 0)
+[2025-12-01 22:49:27.826] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:44 run_all_tests) - 异步批量日志，第6条 (Error Code: 0)
+[2025-12-01 22:49:27.826] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:44 run_all_tests) - 异步批量日志，第7条 (Error Code: 0)
+[2025-12-01 22:49:27.826] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:44 run_all_tests) - 异步批量日志，第8条 (Error Code: 0)
+[2025-12-01 22:49:27.826] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:44 run_all_tests) - 异步批量日志，第9条 (Error Code: 0)

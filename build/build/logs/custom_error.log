@@ -1,0 +1,3 @@
+----------------
+[2025-12-01 22:49:29.133] [Linux] [ERROR ] [TID:12100944084493584452] (testLogger.cpp:177 run_all_tests) - 自定义错误码测试：网络超时 (Error Code: 1001)
+[2025-12-01 22:49:29.133] [Linux] [ERROR ] [TID:12100944084493584452] (testLogger.cpp:179 run_all_tests) - 自定义错误码测试：磁盘空间不足 (Error Code: 2001)

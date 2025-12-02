@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/xzero_demo.dir/link.d CMakeFiles/xzero_demo.dir/demo/main.cpp.o CMakeFiles/xzero_demo.dir/demo/testLogger.cpp.o -o xzero_demo  libXZeroLog.a

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build",
+  "command": "/usr/bin/g++ -I/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/include -g -std=c++11 -o CMakeFiles/XZeroLog.dir/src/FileLogger.cpp.o -c /mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/src/FileLogger.cpp",
+  "file": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/src/FileLogger.cpp",
+  "output": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build/CMakeFiles/XZeroLog.dir/src/FileLogger.cpp.o"
+},
+{
+  "directory": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build",
+  "command": "/usr/bin/g++ -I/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/include -g -std=c++11 -o CMakeFiles/XZeroLog.dir/src/LogUtils.cpp.o -c /mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/src/LogUtils.cpp",
+  "file": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/src/LogUtils.cpp",
+  "output": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build/CMakeFiles/XZeroLog.dir/src/LogUtils.cpp.o"
+},
+{
+  "directory": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build",
+  "command": "/usr/bin/g++ -I/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/include -g -std=c++11 -o CMakeFiles/XZeroLog.dir/src/LogContext.cpp.o -c /mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/src/LogContext.cpp",
+  "file": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/src/LogContext.cpp",
+  "output": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build/CMakeFiles/XZeroLog.dir/src/LogContext.cpp.o"
+},
+{
+  "directory": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build",
+  "command": "/usr/bin/g++ -I/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/include -g -std=c++11 -o CMakeFiles/XZeroLog.dir/src/XZeroLog.cpp.o -c /mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/src/XZeroLog.cpp",
+  "file": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/src/XZeroLog.cpp",
+  "output": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build/CMakeFiles/XZeroLog.dir/src/XZeroLog.cpp.o"
+},
+{
+  "directory": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build",
+  "command": "/usr/bin/g++ -I/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/include -g -std=c++11 -o CMakeFiles/xzero_demo.dir/demo/main.cpp.o -c /mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/demo/main.cpp",
+  "file": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/demo/main.cpp",
+  "output": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build/CMakeFiles/xzero_demo.dir/demo/main.cpp.o"
+},
+{
+  "directory": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build",
+  "command": "/usr/bin/g++ -I/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/include -g -std=c++11 -o CMakeFiles/xzero_demo.dir/demo/testLogger.cpp.o -c /mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/demo/testLogger.cpp",
+  "file": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/demo/testLogger.cpp",
+  "output": "/mnt/data_nvme/code/C++/C++20Study/Factory/FactoryMethod/LogSystemCpp11/build/CMakeFiles/xzero_demo.dir/demo/testLogger.cpp.o"
+}
+]

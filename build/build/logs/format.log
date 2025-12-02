@@ -1,0 +1,3 @@
+----------------
+[2025-12-01 22:49:29.131] [Linux] [INFO  ] [TID:12100944084493584452] (testLogger.cpp:126 run_all_tests) - 格式化测试：包含线程ID与时间戳 (Error Code: 0)
+[2025-12-01 22:49:29.131] [Linux] [INFO  ] [TID:12100944084493584452] (testLogger.cpp:127 run_all_tests) - 格式化测试：中文UTF-8编码 (Error Code: 0)

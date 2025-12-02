@@ -1,0 +1,6 @@
+----------------
+[2025-12-01 22:49:27.825] [Linux] [INFO  ] [TID:12100944084493584452] (testLogger.cpp:25 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 22:49:27.825] [Linux] [WARN  ] [TID:12100944084493584452] (testLogger.cpp:26 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 22:49:27.825] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:27 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 22:49:27.825] [Linux] [ERROR ] [TID:12100944084493584452] (testLogger.cpp:28 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 100)
+[2025-12-01 22:49:27.825] [Linux] [DEBUG ] [TID:12100944084493584452] (testLogger.cpp:29 run_all_tests) - 配置测试：含时间戳、OS、线程ID (Error Code: 300)

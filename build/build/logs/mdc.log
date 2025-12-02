@@ -1,0 +1,2 @@
+----------------
+{"timestamp":"2025-12-01T14:49:29.132Z","OS":"Linux","level":"INFO","thread":"TID:12100944084493584452","logger":"testLogger.cpp:157 run_all_tests","message":"MDC 测试：携带 trace/session","context":{"sessionId":"sess-xyz","traceId":"trace-abc-001"},"error_code":0}

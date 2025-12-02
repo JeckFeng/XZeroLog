@@ -1,0 +1,2 @@
+/usr/bin/ar qc libXZeroLog.a CMakeFiles/XZeroLog.dir/src/FileLogger.cpp.o CMakeFiles/XZeroLog.dir/src/LogUtils.cpp.o CMakeFiles/XZeroLog.dir/src/LogContext.cpp.o CMakeFiles/XZeroLog.dir/src/XZeroLog.cpp.o
+/usr/bin/ranlib libXZeroLog.a

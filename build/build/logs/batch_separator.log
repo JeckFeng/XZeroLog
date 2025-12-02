@@ -1,0 +1,10 @@
+==== NEW SESSION ====
+[2025-12-01 22:49:28.830] [Linux] [WARN  ] [TID:12100944084493584452] (testLogger.cpp:112 run_all_tests) - 批量+分割线测试 第0条 (Error Code: 0)
+[2025-12-01 22:49:28.830] [Linux] [WARN  ] [TID:12100944084493584452] (testLogger.cpp:112 run_all_tests) - 批量+分割线测试 第1条 (Error Code: 0)
+[2025-12-01 22:49:28.830] [Linux] [WARN  ] [TID:12100944084493584452] (testLogger.cpp:112 run_all_tests) - 批量+分割线测试 第2条 (Error Code: 0)
+[2025-12-01 22:49:28.830] [Linux] [WARN  ] [TID:12100944084493584452] (testLogger.cpp:112 run_all_tests) - 批量+分割线测试 第3条 (Error Code: 0)
+[2025-12-01 22:49:28.830] [Linux] [WARN  ] [TID:12100944084493584452] (testLogger.cpp:112 run_all_tests) - 批量+分割线测试 第4条 (Error Code: 0)
+[2025-12-01 22:49:28.830] [Linux] [WARN  ] [TID:12100944084493584452] (testLogger.cpp:112 run_all_tests) - 批量+分割线测试 第5条 (Error Code: 0)
+[2025-12-01 22:49:28.830] [Linux] [WARN  ] [TID:12100944084493584452] (testLogger.cpp:112 run_all_tests) - 批量+分割线测试 第6条 (Error Code: 0)
+[2025-12-01 22:49:28.830] [Linux] [WARN  ] [TID:12100944084493584452] (testLogger.cpp:112 run_all_tests) - 批量+分割线测试 第7条 (Error Code: 0)
+[2025-12-01 22:49:28.830] [Linux] [WARN  ] [TID:12100944084493584452] (testLogger.cpp:112 run_all_tests) - 批量+分割线测试 第8条 (Error Code: 0)
